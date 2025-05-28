@@ -1,0 +1,16 @@
+.poetry/
+.virtualenvs/
+*.env
+*.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+.vscode/
+*.sqlite
+*.log
+*.db
+*.spec
